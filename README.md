@@ -1,6 +1,6 @@
-<center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
+<center><h1><p style="color: red;">Git & GitHub - Explorando Colaboração e Markdown</p></h1></center>
 
-**Objetivos e Comentários do autor @notarityr**
+## **Objetivos e Comentários do autor @notarityr**
 
 1. **Criar sua conta no Github:**
  - Essencial para alcançarmos nossos objetivos.   
@@ -22,9 +22,14 @@
    - Realizem alterações, Commits, abra issues e pull requests.
 
 4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+- Edite o arquivo "README.md" em seu repositório.
+<blockquote>Foram também utilizados alguns comandos HTML básicos para a formatação do README.md, como por exemplo esta citação utilizando o 'blockquote'.</blockquote>
 
+   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+>Abaixo um exemplo de utilização delinguagem Markdown para criar links:
+   ------------------
+   Colaboradores: <br> [@wilestyr](https://github.com/wilestyr)<br> [@notarityr](https://github.com/wnotarityr)
+   -------
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
