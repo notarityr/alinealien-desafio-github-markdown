@@ -9,7 +9,7 @@
 - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
 >O repositório foi criado com o nome de "alinealien-desafio-github-markdown" por @notarityr.
    - Adicione o seu README.md ao criar o repositório.
->README.md adicionado e recebendo alterações dos usuários @notarityr e @wilestyr.
+>README.md adicionado e recebendo alterações, commits, issues e pull requests dos usuários @notarityr e @wilestyr.
    - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
 >Todas as ações tomadas foram realizadas pelo Github.dev sem utilizar uma IDE local.
    - Lembre-se: o repositório deve ser público.
