@@ -15,8 +15,10 @@
    - Lembre-se: o repositório deve ser público.
 
 3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+ - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+>Todas as citações deste tópico são colaborações da conta @wilestyr
    - Ambos devem fazer um clone do repositório em suas máquinas locais.
+>Como descrito na terceira citação do segundo tópico, todas as ações tomadas foram realizadas pelo Github.dev sem utilizar uma IDE local.
    - Realizem alterações, Commits, abra issues e pull requests.
 
 4. **Formatação com Markdown:**
